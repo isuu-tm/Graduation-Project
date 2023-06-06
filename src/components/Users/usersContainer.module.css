@@ -1,0 +1,44 @@
+.usersSearchForm {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-bottom: 1rem;
+}
+
+.usersSearchFormForm {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.usersSearchFormInput {
+   margin: 0.5rem;
+   padding: 0.5rem;
+   border: 1px solid gray;
+   border-radius: 4px;
+   font-size: 1rem;
+}
+
+.usersSearchFormSelect {
+   margin: 0.5rem;
+   padding: 0.5rem;
+   border: 1px solid gray;
+   border-radius: 4px;
+   font-size: 1rem;
+}
+
+.usersSearchFormButton {
+   margin: 0.5rem;
+   padding: 0.5rem 1rem;
+   background-color: #2196f3;
+   color: #fff;
+   border: none;
+   border-radius: 4px;
+   font-size: 1rem;
+   cursor: pointer;
+}
+
+.usersSearchFormButton:disabled {
+   background-color: gray;
+   cursor: not-allowed;
+}

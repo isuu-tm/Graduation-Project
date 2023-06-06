@@ -1,0 +1,26 @@
+
+ .photoBlock img {
+   height: 200px;
+}
+
+ .descriptionBlock {
+    padding: 10px;
+ }
+
+ .userPhoto {
+    border-radius: 12px;
+    height: 200px;
+ }
+
+ .profileBlock {
+    font-weight: normal;
+ }
+
+ .contact {
+    padding-left: 20px;
+ }
+
+ .buttonCancel {
+    margin-left: 13px;
+ }
+ 

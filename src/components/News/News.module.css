@@ -1,0 +1,12 @@
+.newsBlock {
+   font-family: Arial, sans-serif;
+   font-size: 16px;
+   line-height: 1.5;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+}
+
+.someTab {
+   height: 10px;
+}
